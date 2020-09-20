@@ -5,5 +5,5 @@
 * install cryptography 2.7
 
 # Design 
-![design document](./bit_coin_app_design.jpg "design document")
+![design document](https://github.com/AlexWei061/BlockChain/blob/master/bit_coin_app_design.JPG "design document")
 
